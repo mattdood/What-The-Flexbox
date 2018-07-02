@@ -7,9 +7,10 @@
 
 .box1 {
   flex:10 5 450px;
+  flex-basis: 200px;
+  font-size: 50px;
 }
 
 .box2 {
   flex:1 1 360px;
 }
-
